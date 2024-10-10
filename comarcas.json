@@ -1,0 +1,82 @@
+[
+    {
+        "COD": 37,
+        "Comarca": "\u00c1rea de Ourense"
+    },
+    {
+        "COD": 49,
+        "Comarca": "O Morrazo"
+    },
+    {
+        "COD": 51,
+        "Comarca": "\u00c1rea de Pontevedra"
+    },
+    {
+        "COD": 53,
+        "Comarca": "\u00c1rea de Vigo"
+    },
+    {
+        "COD": 44,
+        "Comarca": "Pontevedra Sur"
+    },
+    {
+        "COD": 45,
+        "Comarca": "Caldas-O Saln\u00e9s"
+    },
+    {
+        "COD": 35,
+        "Comarca": "O Carballi\u00f1o-O Ribeiro"
+    },
+    {
+        "COD": 48,
+        "Comarca": "Pontevedra Nororiental"
+    },
+    {
+        "COD": 32,
+        "Comarca": "Ourense Sur"
+    },
+    {
+        "COD": 33,
+        "Comarca": "Ourense Central"
+    },
+    {
+        "COD": 24,
+        "Comarca": "Lugo Sur"
+    },
+    {
+        "COD": 19,
+        "Comarca": "Lugo Oriental"
+    },
+    {
+        "COD": 23,
+        "Comarca": "Lugo Central"
+    },
+    {
+        "COD": 20,
+        "Comarca": "A Mari\u00f1a"
+    },
+    {
+        "COD": 7,
+        "Comarca": "Ferrol-Eume-Ortegal"
+    },
+    {
+        "COD": 2,
+        "Comarca": "\u00c1rea de A Coru\u00f1a"
+    },
+    {
+        "COD": 3,
+        "Comarca": "A Coru\u00f1a Suroriental"
+    },
+    {
+        "COD": 5,
+        "Comarca": "\u00c1rea de Costa da Morte"
+    },
+    {
+        "COD": 1,
+        "Comarca": "\u00c1rea de Santiago"
+    },
+    {
+        "COD": 4,
+        "Comarca": "A Barbanza-Noia"
+    }
+]
