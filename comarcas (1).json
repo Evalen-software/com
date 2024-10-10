@@ -1,0 +1,182 @@
+[
+    {
+        "COD": 37,
+        "CodPROV": 32.0,
+        "Comarca": "\u00c1rea de Ourense",
+        "Provincia": "Ourense",
+        "ComarcaMAY": "OURENSE",
+        "Shape_Leng": 140422.922706,
+        "Shape_Area": 622788878.664
+    },
+    {
+        "COD": 49,
+        "CodPROV": 36.0,
+        "Comarca": "O Morrazo",
+        "Provincia": "Pontevedra",
+        "ComarcaMAY": "O MORRAZO",
+        "Shape_Leng": 150416.978828,
+        "Shape_Area": 139780529.589
+    },
+    {
+        "COD": 51,
+        "CodPROV": 36.0,
+        "Comarca": "\u00c1rea de Pontevedra",
+        "Provincia": "Pontevedra",
+        "ComarcaMAY": "PONTEVEDRA",
+        "Shape_Leng": 186146.253954,
+        "Shape_Area": 623738397.373
+    },
+    {
+        "COD": 53,
+        "CodPROV": 36.0,
+        "Comarca": "\u00c1rea de Vigo",
+        "Provincia": "Pontevedra",
+        "ComarcaMAY": "VIGO",
+        "Shape_Leng": 283976.804686,
+        "Shape_Area": 609409356.743
+    },
+    {
+        "COD": 44,
+        "CodPROV": 36.0,
+        "Comarca": "Pontevedra Sur",
+        "Provincia": "Pontevedra",
+        "ComarcaMAY": "A PARADANTA",
+        "Shape_Leng": 111814.245436,
+        "Shape_Area": 339884106.02
+    },
+    {
+        "COD": 45,
+        "CodPROV": 36.0,
+        "Comarca": "Caldas-O Saln\u00e9s",
+        "Provincia": "Pontevedra",
+        "ComarcaMAY": "CALDAS",
+        "Shape_Leng": 101129.595283,
+        "Shape_Area": 288499531.307
+    },
+    {
+        "COD": 35,
+        "CodPROV": 32.0,
+        "Comarca": "O Carballi\u00f1o-O Ribeiro",
+        "Provincia": "Ourense",
+        "ComarcaMAY": "O CARBALLI\u00d1O",
+        "Shape_Leng": 149631.457298,
+        "Shape_Area": 552111131.097
+    },
+    {
+        "COD": 48,
+        "CodPROV": 36.0,
+        "Comarca": "Pontevedra Nororiental",
+        "Provincia": "Pontevedra",
+        "ComarcaMAY": "DEZA",
+        "Shape_Leng": 177928.948288,
+        "Shape_Area": 1026056926.72
+    },
+    {
+        "COD": 32,
+        "CodPROV": 32.0,
+        "Comarca": "Ourense Sur",
+        "Provincia": "Ourense",
+        "ComarcaMAY": "A LIMIA",
+        "Shape_Leng": 172941.964836,
+        "Shape_Area": 802758178.402
+    },
+    {
+        "COD": 33,
+        "CodPROV": 32.0,
+        "Comarca": "Ourense Central",
+        "Provincia": "Ourense",
+        "ComarcaMAY": "ALLARIZ-MACEDA",
+        "Shape_Leng": 124236.342096,
+        "Shape_Area": 381953333.671
+    },
+    {
+        "COD": 24,
+        "CodPROV": 27.0,
+        "Comarca": "Lugo Sur",
+        "Provincia": "Lugo",
+        "ComarcaMAY": "CHANTADA",
+        "Shape_Leng": 142797.23803,
+        "Shape_Area": 461992947.937
+    },
+    {
+        "COD": 19,
+        "CodPROV": 27.0,
+        "Comarca": "Lugo Oriental",
+        "Provincia": "Lugo",
+        "ComarcaMAY": "A FONSAGRADA",
+        "Shape_Leng": 172656.992018,
+        "Shape_Area": 679454716.631
+    },
+    {
+        "COD": 23,
+        "CodPROV": 27.0,
+        "Comarca": "Lugo Central",
+        "Provincia": "Lugo",
+        "ComarcaMAY": "A ULLOA",
+        "Shape_Leng": 102072.317811,
+        "Shape_Area": 417632523.001
+    },
+    {
+        "COD": 20,
+        "CodPROV": 27.0,
+        "Comarca": "A Mari\u00f1a",
+        "Provincia": "Lugo",
+        "ComarcaMAY": "A MARI\u00d1A CENTRAL",
+        "Shape_Leng": 148343.035667,
+        "Shape_Area": 501046949.633
+    },
+    {
+        "COD": 7,
+        "CodPROV": 15.0,
+        "Comarca": "Ferrol-Eume-Ortegal",
+        "Provincia": "A Coru\u00f1a",
+        "ComarcaMAY": "EUME",
+        "Shape_Leng": 171916.753126,
+        "Shape_Area": 538897672.175
+    },
+    {
+        "COD": 2,
+        "CodPROV": 15.0,
+        "Comarca": "\u00c1rea de A Coru\u00f1a",
+        "Provincia": "A Coru\u00f1a",
+        "ComarcaMAY": "A CORU\u00d1A",
+        "Shape_Leng": 218913.269199,
+        "Shape_Area": 473239022.466
+    },
+    {
+        "COD": 3,
+        "CodPROV": 15.0,
+        "Comarca": "A Coru\u00f1a Suroriental",
+        "Provincia": "A Coru\u00f1a",
+        "ComarcaMAY": "ARZ\u00daA",
+        "Shape_Leng": 163655.153622,
+        "Shape_Area": 484797270.951
+    },
+    {
+        "COD": 5,
+        "CodPROV": 15.0,
+        "Comarca": "\u00c1rea de Costa da Morte",
+        "Provincia": "A Coru\u00f1a",
+        "ComarcaMAY": "BERGANTI\u00d1OS",
+        "Shape_Leng": 259680.238415,
+        "Shape_Area": 744732761.013
+    },
+    {
+        "COD": 1,
+        "CodPROV": 15.0,
+        "Comarca": "\u00c1rea de Santiago",
+        "Provincia": "A Coru\u00f1a",
+        "ComarcaMAY": "A BARCALA",
+        "Shape_Leng": 89553.9701111,
+        "Shape_Area": 213025565.147
+    },
+    {
+        "COD": 4,
+        "CodPROV": 15.0,
+        "Comarca": "A Barbanza-Noia",
+        "Provincia": "A Coru\u00f1a",
+        "ComarcaMAY": "BARBANZA",
+        "Shape_Leng": 225846.173916,
+        "Shape_Area": 245194013.932
+    }
+]
